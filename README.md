@@ -8,7 +8,7 @@
 📌 My technical skills include :
 
 
- - 💻 *Languages:*  <img align="center" height="30" src="https://img.icons8.com/color/144/000000/python.png"/> <img align="center" height="30" src="https://img.icons8.com/color/144/000000/java.png"/> <img align="center" height="30" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+ - 💻 *Languages:*  <img align="center" height="30" src="https://img.icons8.com/color/144/000000/python.png"/> <img align="center" height="30" src="https://img.icons8.com/color/144/000000/java.png"/> <img align="center" height="30" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img align="center" height="30" src="https://img.icons8.com/color/48/000000/php.png"/>
 
  - 💻 *Back-End Development:*  <img align="center" height="30" src="https://img.icons8.com/color/48/000000/django.png"/> <img align="center" height="30" src="https://img.icons8.com/color/48/000000/flask.png"/> <img align="center" height="30" src="https://img.icons8.com/color/48/000000/mysql.png"/> <img align="center" height="30" src="https://img.icons8.com/color/48/000000/java-web-token.png"/>
 
